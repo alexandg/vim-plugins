@@ -8,6 +8,7 @@ Collection of submodules for Vim plugins. Loaded via Pathogen.
 
 ```
 cd ~/.vim
+git clone https://github.com/alexandg/vim-plugins.git bundle
 git submodule init
 git submodule update
 ```
