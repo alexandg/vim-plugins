@@ -31,9 +31,6 @@
 [submodule "pydoc.vim"]
 	path = pydoc.vim
 	url = https://github.com/fs111/pydoc.vim
-[submodule "rust.vim"]
-	path = rust.vim
-	url = https://github.com/wting/rust.vim.git
 [submodule "supertab"]
 	path = supertab
 	url = https://github.com/ervandew/supertab.git
