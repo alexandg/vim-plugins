@@ -73,3 +73,9 @@
 [submodule "rust.vim"]
 	path = rust.vim
 	url = https://github.com/rust-lang/rust.vim.git
+[submodule "csapprox"]
+	path = csapprox
+	url = https://github.com/godlygeek/csapprox.git
+[submodule "Apprentice"]
+	path = Apprentice
+	url = https://github.com/romainl/Apprentice.git
