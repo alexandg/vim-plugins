@@ -3,6 +3,12 @@ Vim Plugins
 
 Collection of submodules for Vim plugins. Loaded via Pathogen.
 
+### Dependencies
+
+* Exuberant ctags
+* pep8
+* autopep8
+* python3-jedi
 
 ### To Install
 
