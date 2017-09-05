@@ -82,3 +82,9 @@
 [submodule "TaskList.vim"]
 	path = TaskList.vim
 	url = https://github.com/jontrainor/TaskList.vim.git
+[submodule "vim-buftabline"]
+	path = vim-buftabline
+	url = https://github.com/ap/vim-buftabline.git
+[submodule "vim-buffergator"]
+	path = vim-buffergator
+	url = https://github.com/jeetsukumaran/vim-buffergator.git
