@@ -88,3 +88,6 @@
 [submodule "vim-buffergator"]
 	path = vim-buffergator
 	url = https://github.com/jeetsukumaran/vim-buffergator.git
+[submodule "rust-doc.vim"]
+	path = rust-doc.vim
+	url = https://github.com/rhysd/rust-doc.vim.git
