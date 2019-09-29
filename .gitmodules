@@ -91,3 +91,6 @@
 [submodule "rust-doc.vim"]
 	path = rust-doc.vim
 	url = https://github.com/rhysd/rust-doc.vim.git
+[submodule "vim-solarized8"]
+	path = vim-solarized8
+	url = https://github.com/lifepillar/vim-solarized8.git
