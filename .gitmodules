@@ -97,3 +97,12 @@
 [submodule "Disciple"]
 	path = Disciple
 	url = https://github.com/romainl/Disciple.git
+[submodule "papercolor-theme"]
+	path = papercolor-theme
+	url = https://github.com/NLKNguyen/papercolor-theme.git
+[submodule "tempus-themes-vim"]
+	path = tempus-themes-vim
+	url = https://gitlab.com/protesilaos/tempus-themes-vim.git
+[submodule "vim-go"]
+	path = vim-go
+	url = https://github.com/fatih/vim-go.git
