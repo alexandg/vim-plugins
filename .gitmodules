@@ -1,27 +1,15 @@
 [submodule "base16-vim"]
 	path = base16-vim
 	url = https://github.com/chriskempson/base16-vim.git
-[submodule "bufexplorer"]
-	path = bufexplorer
-	url = https://github.com/jlanzarotta/bufexplorer.git
 [submodule "cvim-pathogen"]
 	path = cvim-pathogen
 	url = https://github.com/HenningM/cvim-pathogen.git
-[submodule "darkburn"]
-	path = darkburn
-	url = https://github.com/vim-scripts/darkburn
-[submodule "hexman.vim"]
-	path = hexman.vim
-	url = https://github.com/vim-scripts/hexman.vim.git
 [submodule "indentLine"]
 	path = indentLine
 	url = https://github.com/Yggdroot/indentLine
 [submodule "jedi-vim"]
 	path = jedi-vim
 	url = https://github.com/davidhalter/jedi-vim.git
-[submodule "lushtags"]
-	path = lushtags
-	url = https://github.com/bitc/lushtags
 [submodule "nerdcommenter"]
 	path = nerdcommenter
 	url = https://github.com/scrooloose/nerdcommenter.git
@@ -43,9 +31,6 @@
 [submodule "vim-bufferline"]
 	path = vim-bufferline
 	url = https://github.com/bling/vim-bufferline
-[submodule "vim-colors-solarized"]
-	path = vim-colors-solarized
-	url = https://github.com/altercation/vim-colors-solarized.git
 [submodule "vim-cpp-enhanced-highlight"]
 	path = vim-cpp-enhanced-highlight
 	url = https://github.com/octol/vim-cpp-enhanced-highlight.git
@@ -55,9 +40,6 @@
 [submodule "vim-fugitive"]
 	path = vim-fugitive
 	url = https://github.com/tpope/vim-fugitive.git
-[submodule "vim-haskell"]
-	path = vim-haskell
-	url = https://github.com/wlangstroth/vim-haskell.git
 [submodule "vim-racer"]
 	path = vim-racer
 	url = https://github.com/racer-rust/vim-racer.git
@@ -70,9 +52,6 @@
 [submodule "rust.vim"]
 	path = rust.vim
 	url = https://github.com/rust-lang/rust.vim.git
-[submodule "csapprox"]
-	path = csapprox
-	url = https://github.com/godlygeek/csapprox.git
 [submodule "Apprentice"]
 	path = Apprentice
 	url = https://github.com/romainl/Apprentice.git
@@ -91,18 +70,12 @@
 [submodule "rust-doc.vim"]
 	path = rust-doc.vim
 	url = https://github.com/rhysd/rust-doc.vim.git
-[submodule "vim-solarized8"]
-	path = vim-solarized8
-	url = https://github.com/lifepillar/vim-solarized8.git
-[submodule "Disciple"]
-	path = Disciple
-	url = https://github.com/romainl/Disciple.git
 [submodule "papercolor-theme"]
 	path = papercolor-theme
 	url = https://github.com/NLKNguyen/papercolor-theme.git
-[submodule "tempus-themes-vim"]
-	path = tempus-themes-vim
-	url = https://gitlab.com/protesilaos/tempus-themes-vim.git
 [submodule "vim-go"]
 	path = vim-go
 	url = https://github.com/fatih/vim-go.git
+[submodule "python-syntax"]
+	path = python-syntax
+	url = https://github.com/vim-python/python-syntax.git
